@@ -9,4 +9,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a fine dining Chef for most of my adult life
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsparks&layout=compact)](https://github.com/sgsparks/github-readme-stats)]
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
