@@ -11,7 +11,6 @@
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgsparks&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsparks&layout=compact&theme=dark)](https://github.com/sgsparks/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsparks&layout=compact&theme=dark)
 
 
