@@ -11,6 +11,6 @@
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgsparks&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sgsparks/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsparks)](https://github.com/sgsparks/github-readme-stats)
 
 
