@@ -10,6 +10,6 @@
 - ⚡ Fun fact: I was a fine dining Chef for most of my adult life
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgsparks&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsparks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgsparks&layout=compact)](https://github.com/sgsparks/github-readme-stats)
 
 
