@@ -25,7 +25,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-express-43853d?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-react-native-43853d?style=flat-square&logo=React-Native&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/npm/dm/react-native-badge-avatar.svg?style=flat-square)](https://www.npmjs.com/package/react-native-badge-avatar" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-aws-43853d?style=flat-square&logo=aws&logoColor=white" />
 
 
