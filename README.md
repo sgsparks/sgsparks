@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a adding authentication to a previous personal project, MV-Pizza
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning Redux 
 - 💬 Ask me about software engineering, bootcamps, anything to do with food
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a Fine Dining Chef for most of my adult life
